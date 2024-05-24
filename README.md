@@ -11,10 +11,18 @@ My journey in game development has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Internal IT Audidt and Compliance | <a href="https://google.com">Botium Toys Security Audit</a>|
-
+| Internal IT Audidt and Compliance | <a href="https://github.com/JudahK96/Botium-Toys-Internal-IT-Audit-Lab">Botium Toys Security Audit</a>|
+<!--
+| SIEM Implementation and Log Analysis | <a href="InsertURL">Project</a> |
+| Network Traffic Monitoring and Attack Detection | <a href="InsertURL">Project</a> |
+| Security Automation with Shuffle SOAR | <a href="InsertURL">Project</a> |
+| Incident Response Planning and Execution | <a href="InsertURL">Project</a> |
+| Case Management with TheHive | <a href="InsertURL">Project</a> |
+| Scripting and Automation for Threat Mitigation | <a href="InsertURL">Project</a> |
+-->
 ## Tools
 
+<!--
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -24,6 +32,7 @@ My journey in game development has led me to develop a passion for cybersecurity
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
+-->
 
 ### Cloud
 <div>
