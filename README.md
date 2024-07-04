@@ -12,7 +12,7 @@ My journey in game development has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Internal IT Audidt and Compliance | <a href="https://github.com/JudahK96/Botium-Toys-Internal-IT-Audit-Lab">Botium Toys Security Audit</a>|
-| Network Hardening | <a href="[https://github.com/JudahK96/Botium-Toys-Internal-IT-Audit-Lab](https://github.com/JudahK96/Social-Media-Org-Vulnerability-Assessment-Lab)">Social Media Org Vulnerability</a>|
+| Network Hardening | <a href="https://github.com/JudahK96/Social-Media-Org-Vulnerability-Assessment-Lab">Social Media Org Vulnerability</a>|
 <!--
 | SIEM Implementation and Log Analysis | <a href="InsertURL">Project</a> |
 | Network Traffic Monitoring and Attack Detection | <a href="InsertURL">Project</a> |
