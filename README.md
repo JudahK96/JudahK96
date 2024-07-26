@@ -23,12 +23,14 @@ My journey in game development has led me to develop a passion for cybersecurity
 -->
 ## Tools
 
-<!--
+
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" />
 </div>
 
+<!--
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
