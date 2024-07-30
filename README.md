@@ -41,8 +41,11 @@ My journey in game development has led me to develop a passion for cybersecurity
 
 ### Cloud
 <div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Chronicle-000000?&style=for-the-badge&logo=google&logoColor=white" />
+<!--
     <img src="https://img.shields.io/badge/-Amazon_AWS_Security-232F3E?&style=for-the-badge&logo=Amazon+AWS&logoColor=white" />
-
+-->
 </div>
 
 ## Certifications
