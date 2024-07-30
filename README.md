@@ -23,13 +23,17 @@ My journey in game development has led me to develop a passion for cybersecurity
 -->
 ## Tools
 
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Chronicle-000000?&style=for-the-badge&logo=google&logoColor=white" />
+</div>
 
-### Network
+### Data Manipulation & Visualisation:
 <div>
     <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
 <!--
@@ -38,19 +42,6 @@ My journey in game development has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 -->
-
-### Cloud
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Chronicle-000000?&style=for-the-badge&logo=google&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-
-</div>
-
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-UNC_Charlotte_Generative_AI-004B49?&style=for-the-badge&logo=university&logoColor=white" />
 
 ### Languages
 <div>
@@ -65,6 +56,12 @@ My journey in game development has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Windows-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-UNC_Charlotte_Generative_AI-004B49?&style=for-the-badge&logo=university&logoColor=white" />
+<div>
+    
 ## Projects
 - Botium Toys Security Audit
 - Social Media Org Vulnerability
