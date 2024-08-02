@@ -58,7 +58,7 @@ My journey in game development has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-UNC_Charlotte_Generative_AI-004B49?&style=for-the-badge&logo=university&logoColor=white" />
 <div>
     
