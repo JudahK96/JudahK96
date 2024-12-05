@@ -5,12 +5,13 @@ I am a game developer with an interest in technology, solving complex problems a
 
 ## Objective
 
-My journey in game development has led me to develop a passion for cybersecurity analysis, and I am now eager to transition into this field, specifically targeting my learning towards DevSecOps.
+My journey in game development has led me to develop a passion for cybersecurity analysis, and I am now eager to transition into this field, specifically targeting my learning towards Splunk Architecture.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Elastic SIEM Implementation w/Network Alerts|----------------------------|
 | Internal IT Audit and Compliance | <a href="https://github.com/JudahK96/Botium-Toys-Internal-IT-Audit-Lab">Botium Toys Security Audit</a>|
 | Network Hardening | <a href="https://github.com/JudahK96/Social-Media-Org-Vulnerability-Assessment-Lab">Social Media Org Vulnerability</a>|
 <!--
