@@ -63,6 +63,7 @@ My journey in game development has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
     <img src="https://img.shields.io/badge/-Perforce-404040?&style=for-the-badge&logo=Perforce&logoColor=white" />
     <img src="https://img.shields.io/badge/-Confluence-000000?&style=for-the-badge&logo=Confluence&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Teams-6264A7?&style=for-the-badge&logo=Microsoft-Teams&logoColor=white" />
     <img src="https://img.shields.io/badge/-Slack-4A154B?&style=for-the-badge&logo=Slack&logoColor=white" />
     <img src="https://img.shields.io/badge/-ShotGrid-000000?&style=for-the-badge&logo=ShotGrid&logoColor=white" />
 </div>
