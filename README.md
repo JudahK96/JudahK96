@@ -23,16 +23,11 @@ My journey in game development has led me to develop a passion for cybersecurity
 -->
 ## Tools
 
-### SIEM
+### SIEM/Cloud
 <div>
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Chronicle-000000?&style=for-the-badge&logo=google&logoColor=white" />
-</div>
-
-### Cloud
-<div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Chronicle-000000?&style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
 ### Data Manipulation & Visualisation:
@@ -62,6 +57,13 @@ My journey in game development has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-Google_IT_Support-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-UNC_Charlotte_Generative_AI-004B49?&style=for-the-badge&logo=university&logoColor=white" />
 <div>
+
+### Other
+<div>
+    <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Perforce-404040?&style=for-the-badge&logo=Perforce&logoColor=white" />
+
+</div>
     
 ## Projects
 - Botium Toys Security Audit
