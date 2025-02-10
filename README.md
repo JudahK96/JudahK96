@@ -11,7 +11,7 @@ My journey in game development has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| LimaCharlie/Sysmon Defence against Sliver C2 Payloads|<a href="https://github.com/JudahK96/SOC-Analyst-LimaCharlie-Lab">SOC Analyst LimaCharlie EDR Lab</a>|
+| Defence against Sliver C2 Payloads with LimaCharlie/Sysmon|<a href="https://github.com/JudahK96/SOC-Analyst-LimaCharlie-Lab">SOC Analyst EDR Lab</a>|
 | SIEM Implementation w/Network Alerts|<a href="https://github.com/JudahK96/Elastic-Home-SIEM-Lab">Elastic Home SIEM Lab</a>|
 | Internal IT Audit and Compliance | <a href="https://github.com/JudahK96/Botium-Toys-Internal-IT-Audit-Lab">Botium Toys Security Audit</a>|
 | Network Hardening | <a href="https://github.com/JudahK96/Social-Media-Org-Vulnerability-Assessment-Lab">Social Media Org Vulnerability</a>|
