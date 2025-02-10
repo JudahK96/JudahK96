@@ -71,6 +71,7 @@ My journey in game development has led me to develop a passion for cybersecurity
 </div>
     
 ## Projects
+- Adversary Emulation and Detection Lab
 - Elastic-Home-SIEM-Lab
 - Botium Toys Security Audit
 - Social Media Org Vulnerability
