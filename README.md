@@ -5,7 +5,7 @@ I am a game developer with an interest in technology, solving complex problems a
 
 ## Objective
 
-My journey in game development has led me to develop a passion for cybersecurity analysis, and I am now eager to transition into this field, specifically targeting my learning towards Splunk Architecture.
+My journey in game development has led me to develop a passion for cybersecurity analysis, and I am now eager to transition into this field, specifically targeting my learning towards Cybersecurity Analysis and Splunk Architecture.
 
 ## Skills
 
