@@ -30,6 +30,7 @@ My journey in game development has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Chronicle-000000?&style=for-the-badge&logo=google&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LimaCharlie-005571?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
 </div>
 
 ### Data Manipulation & Visualisation:
@@ -43,6 +44,7 @@ My journey in game development has led me to develop a passion for cybersecurity
 ### Languages
 <div>
     <img src="https://img.shields.io/badge/-Python%203-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sigma%20Rules-000000?&style=for-the-badge&logo=Sigma&logoColor=white" />
     <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" />
 </div>
 
@@ -62,6 +64,8 @@ My journey in game development has led me to develop a passion for cybersecurity
 
 ### Other
 <div>
+    <img src="https://img.shields.io/badge/-Sliver%20C2-000000?style=for-the-badge&logo=slack&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-blue?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
     <img src="https://img.shields.io/badge/-Perforce-404040?&style=for-the-badge&logo=Perforce&logoColor=white" />
     <img src="https://img.shields.io/badge/-Confluence-000000?&style=for-the-badge&logo=Confluence&logoColor=white" />
